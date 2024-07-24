@@ -1,3 +1,4 @@
-# Ignore unpacked sqlite file but not zipped
+# Ignore Data folder but not zippedData folder
 Data
+
 !zippedData
