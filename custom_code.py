@@ -17,4 +17,9 @@ def dup(data_frame, column_name):
         print("------------------")
         print("")
 
-        
+
+# Clean finance dataframe
+def finance_col(dataframe, column_name):
+    for money_col in column_name:
+        dataframe[money_col] = dataframe[money_col].str.replace('$', '').str.replace(',', '').astype('int64')
+    pass
