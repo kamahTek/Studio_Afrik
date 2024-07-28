@@ -12,4 +12,46 @@ To ensure the success in this new indurstry, it is crucial to understand the typ
 
 ## Data Understanding and Analysis
 
+The datasets used are:
+
+I. **Relational Database**
+
+1. im.db
+
+II. **CSV FILES**
+
+2. tn.movie_budgets.csv
+
+### Insights
+
+This project uses descriptive analysis to attempt to understand major success indicators in the movie industry and identify potentially useful strategies for producing a successful business
+
+**Genre ratings Based on number of votes**
+
+As a start-up, genres with high rating should not be picked for production without considering the number of votes that participated inthe rating.
+
+![alt text](charts/genre_rating.png)
+
+It is also good to consider top genres that has a high number of movies filmed.
+
+![alt text](charts/genre_over500_movies.png)
+
+**Investment Returns Based on Production Budgets**
+
+![alt text](charts/InvestmentReturns_Production%20Budgets.png)
+
+**Net profit produced per year**
+
+![alt text](charts/net_profit.png)
+
 ## Conclusion
+
+#### Genre
+
+Studio-Afrik should consider picking top rated genres with highest number of votes. Our analysis indicates a genre can have a high average rating due to low votes. Therefore, they should venture into Action, Adventure, Crime, Biography, comedy which are the top five rated genres considering they have high number of votes.
+
+#### Invest in production budget
+
+From our analysis above, we observe that investmenting in production budget has a positive return on the net profit. Our data shows a positive linear relationship between production budget and net profit.
+
+Movie indurstry has recorded positive net profits in every year in our dataset.
