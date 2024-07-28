@@ -36,6 +36,10 @@ It is also good to consider top genres that has a high number of movies filmed.
 
 ![alt text](charts/genre_over500_movies.png)
 
+**Top 10 Directors to hire**
+
+![alt text](charts/top_10_directors.png)
+
 **Investment Returns Based on Production Budgets**
 
 ![alt text](charts/InvestmentReturns_Production%20Budgets.png)
@@ -49,6 +53,13 @@ It is also good to consider top genres that has a high number of movies filmed.
 #### Genre
 
 Studio-Afrik should consider picking top rated genres with highest number of votes. Our analysis indicates a genre can have a high average rating due to low votes. Therefore, they should venture into Action, Adventure, Crime, Biography, comedy which are the top five rated genres considering they have high number of votes.
+
+#### Directors to higher
+
+Studio-Afrik should focus on attracting renowned and respected directors to elevate film quality and enhance audience ratings, which will ultimately generate greater revenue and create lasting impact in the film industry. 
+
+The top ten directors with average movie rating based on votes above mean of votes are: 'Donavon Warren', 'Mari Selvaraj', 'Anjana Krishnakumar',
+'Chathra Weeraman', 'Amitabh Reza Chowdhury', 'Amudhavan Karuppiah','Bharatha Hettiarachchi', 'Prabunath', 'Maha Venkatesh' and 'Summer Nicks'
 
 #### Invest in production budget
 
